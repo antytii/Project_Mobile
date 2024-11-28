@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="fragment_container" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="homeTitle" type="id" />
+    <item name="homeDescription" type="id" />
+</resources>
