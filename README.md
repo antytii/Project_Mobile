@@ -9,7 +9,6 @@ Project: Wonderful SulTeng <br>
 ![home](https://github.com/user-attachments/assets/4e247283-a373-457a-9c37-a63590ce8509)
 <br>
 3. Explore <br>
-![explore](https://github.com/user-attachments/assets/4dc1e53e-6ca7-4438-8362-3132da3e6a40)
 
 ![explore](https://github.com/user-attachments/assets/7f46f5a5-e345-4c1c-bd69-3f6c12a6863f)
 ![explore(1)](https://github.com/user-attachments/assets/ca814019-94c2-4898-a67a-ae7aa15402ad) 
