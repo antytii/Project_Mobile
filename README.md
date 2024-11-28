@@ -10,6 +10,8 @@ Project: Wonderful SulTeng <br>
 <br>
 3. Explore <br>
 ![explore](https://github.com/user-attachments/assets/4dc1e53e-6ca7-4438-8362-3132da3e6a40)
+
+![explore](https://github.com/user-attachments/assets/7f46f5a5-e345-4c1c-bd69-3f6c12a6863f)
 ![explore(1)](https://github.com/user-attachments/assets/ca814019-94c2-4898-a67a-ae7aa15402ad) 
 ![explore(2)](https://github.com/user-attachments/assets/d3236042-5dfd-4c1a-9e24-088840fb63f8)
 ![explore(3)](https://github.com/user-attachments/assets/7eb77fdf-0c42-4226-b8dc-8a4f5019e253)
@@ -22,7 +24,7 @@ Project: Wonderful SulTeng <br>
 ![explore(10)](https://github.com/user-attachments/assets/958e7c47-bf5f-4fbe-a16a-cb0bcc440851)
 ![explore(11)](https://github.com/user-attachments/assets/361e3a63-a21b-48dc-b816-7e5446064553)
 <br>
-4. Bookmark <br>
+5. Bookmark <br>
 ![bookmark](https://github.com/user-attachments/assets/6229de96-4bad-4ae0-b16b-a194c2445287)
 <br>
 6. Account <br>
