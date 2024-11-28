@@ -1,1 +1,3 @@
-![DFD_Level_0_Aplikasi_Manajemen_Keuangan_Pribadi](https://github.com/user-attachments/assets/ae4e206b-b2ac-4100-b9b5-abdec4d8a702)
+Tampilan Home <br>
+![home](https://github.com/user-attachments/assets/4e247283-a373-457a-9c37-a63590ce8509)
+
